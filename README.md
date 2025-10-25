@@ -50,16 +50,11 @@ Interactive slicers allow dynamic filtering by date, department, and severity le
 
 Above: Snapshot of the interactive Excel Dashboard displaying patient flow and key hospital metrics.
 
-🎥 Dashboard Demo
-
-Watch the interactive dashboard video to see how slicers and filters dynamically update insights.
-📽️ Click here to view the dashboard demo
 
 📂 Repository Contents
 File Name	Description
 Excel Dashboard Project 2 SAHELI NATH.xlsx	Main Excel file containing dataset, pivot tables, and the dashboard.
 dashboard.png	Image preview of the dashboard.
-dashboard.mp4	Interactive video demonstration of the dashboard.
 README.md	Project documentation file.
 🧩 Skills Demonstrated
 
